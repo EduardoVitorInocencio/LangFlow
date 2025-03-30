@@ -1,5 +1,5 @@
 # Ignorar ambientes virtuais
-venv/
+.venv/
 
 .env
 .env.*
